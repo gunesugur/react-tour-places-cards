@@ -1,3 +1,8 @@
+* I tried to make maps of tour locations with React.
+* I used functional components in this application. 
+* I took the titles, pictures and descriptions of the tour places from another already existing data file with the map function and made this data ready for presentation visually.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
